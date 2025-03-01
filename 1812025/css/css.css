@@ -1,0 +1,22 @@
+#header{
+    border: 2px solid red;
+    background-color: aqua;
+    height: 100px;
+    margin: 1rem 2rem ;
+    padding: 1rem ;
+}
+header{
+    border: 5px dashed blue;
+    background-color: yellow;
+    height: auto;
+    margin: 1rem 0rem;
+    padding: 2rem 0rem 0rem 2rem;
+}
+p{
+  
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin: auto;
+    border-radius: 1rem;
+    border: 2px solid black;
+}

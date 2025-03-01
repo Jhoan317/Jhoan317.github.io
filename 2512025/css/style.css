@@ -1,0 +1,19 @@
+body{ display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    header{background-color: rgba(0, 255, 255, 0.528);
+    }
+    nav{
+        background-color: rgba(0, 0, 255, 0.399);
+    }
+    main{
+        background-color: rgba(255, 166, 0, 0.436);
+    }
+    
+     footer{
+        background-color: rgba(255, 0, 0, 0.421);
+     }
+   
+}
+header, nav, main, footer{
+    height: 50px; width: 100%;
+}
